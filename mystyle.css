@@ -1,0 +1,24 @@
+html{
+  background: red;
+}
+
+body{
+  max-width: 2000;
+  background:red;
+  font-family: 'Merienda';
+  margin-left: 50px;
+  margin-right: 50px;
+}
+h1{
+  color: blue;
+  font-size: 2.5em;
+}
+div{
+  background: cyan;
+}
+#facts{
+  color:#880000;
+}
+.example1{
+      color: #220066;
+}
